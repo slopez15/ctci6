@@ -1,0 +1,7 @@
+when i went through 
+7 steps of solving algorithm 
+& 
+3 steps of algorithm strategies,
+I found that from the O(n) work with arrays can lower complexity with a queue.
+
+
